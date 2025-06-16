@@ -45,7 +45,7 @@ dependencies {
         api("com.fasterxml.jackson.core:jackson-annotations:2.16.1")
         api("com.fasterxml.jackson.core:jackson-core:2.16.1")
         api("com.fasterxml.jackson.core:jackson-databind:2.16.1")
-        api("com.fifesoft:rsyntaxtextarea:3.3.4")
+        api("com.fifesoft:rsyntaxtextarea:3.6.0")
         api("com.formdev:svgSalamander:1.1.4")
         api("com.github.ben-manes.caffeine:caffeine:2.9.3")
         api("com.github.weisj:darklaf-core:2.7.3")
