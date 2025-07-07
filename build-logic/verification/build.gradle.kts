@@ -26,7 +26,7 @@ dependencies {
     api("com.github.spotbugs:com.github.spotbugs.gradle.plugin:6.0.4")
     api("com.github.vlsi.ide:com.github.vlsi.ide.gradle.plugin:1.90")
     api("com.github.vlsi.gradle-extensions:com.github.vlsi.gradle-extensions.gradle.plugin:1.90")
-    api("de.thetaphi.forbiddenapis:de.thetaphi.forbiddenapis.gradle.plugin:3.6")
+    api("de.thetaphi.forbiddenapis:de.thetaphi.forbiddenapis.gradle.plugin:3.9")
     api("net.ltgt.errorprone:net.ltgt.errorprone.gradle.plugin:3.1.0")
     api("org.checkerframework:org.checkerframework.gradle.plugin:0.6.37")
     api("org.jetbrains.gradle.plugin.idea-ext:org.jetbrains.gradle.plugin.idea-ext.gradle.plugin:1.1.7")
